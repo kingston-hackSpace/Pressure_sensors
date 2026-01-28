@@ -1,2 +1,5 @@
-# Pressure_sensors
-Pressure sensors: Velostat, Square Pad, Circular Pad
+# Pressure Sensors
+
+Pressure Mat (Velostat) 
+
+(Force Sensitive Round Pad (FSR)](https://learn.adafruit.com/force-sensitive-resistor-fsr)
