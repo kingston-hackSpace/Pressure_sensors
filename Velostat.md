@@ -15,6 +15,3 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 
 
 ----
-
-TUTORIAL
-file:///Users/ku72395/Downloads/making-a-force-sensor-a-button-with-velostat-conductive-fabric.html 
