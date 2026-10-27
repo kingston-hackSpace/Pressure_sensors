@@ -19,20 +19,25 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 
 - 220ohms resistor
 
+- 10K resistor
+
 ----
-### WIRING
+### BUTTON : WIRING AND CODE
 
-- Copper Pad A connected to GND via crocodile clip
 
-- Copper Pad B connected to Arudino pin D9 (we will be using it as an analog input) via crocodile clip
-
-<img src="crocodile.jpg" width="600">
 
 
 ----
-### CODE and INSTRUCTIONS
+### ANALOG READINGS: WIRING AND CODE
 
-- Follow [this DIY Pressure Sensor Mat tutorial](https://www.instructables.com/Velostat-Homemade-Pressure-Sensor-Mat/)
+
+----
+### DIY SENSOR TIPS / DEBUG
+
+- The two copper pads must never touch each other directly. 
+
+- If your readings barely change when you press, are unstable, or stay near zero, increase the area where copper and velostat overlap. More contact = stronger signal. 
+
 
 ----
 ### MORE TUTORIALS / EXAMPLES
