@@ -22,4 +22,6 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 
 [Matrix Keyboard using Velostat](https://www.youtube.com/watch?v=DKAtv-m32v8) 
 
+[Firewalker LED Sneakers](https://learn.adafruit.com/firewalker-led-sneakers)
+
 
