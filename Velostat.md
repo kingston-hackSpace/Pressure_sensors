@@ -15,10 +15,6 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 
 - Arduino Board
 
-- LED
-
-- 220ohms resistor
-
 - 10K resistor
 
 ----
