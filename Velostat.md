@@ -5,9 +5,16 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 <img src="velostat.jpg" width="600">
 
 ----
-# Use Examples
+### HARDWARE
 
+----
+### WIRING
 
+----
+### CODE and INSTRUCTIONS
+
+----
+### MORE TUTORIALS / EXAMPLES
 
 [Creating Pressure Sensors with Velostat and Conductive Thread](https://www.youtube.com/watch?v=lPxr8RTkFOQ&t=1s)
 
@@ -16,4 +23,3 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 [Matrix Keyboard using Velostat](https://www.youtube.com/watch?v=DKAtv-m32v8) 
 
 
-----
