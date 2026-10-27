@@ -22,9 +22,11 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 ----
 ### WIRING
 
-Copper Pad A connected to GND 
+- Copper Pad A connected to GND via crocodile clip
 
-Copper Pad B connected to Arudino pin D9 (we will be using it as an analog input)
+- Copper Pad B connected to Arudino pin D9 (we will be using it as an analog input) via crocodile clip
+
+<img src="crocodile.jpg" width="600">
 
 
 ----
