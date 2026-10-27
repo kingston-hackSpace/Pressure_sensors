@@ -13,6 +13,8 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 ----
 ### CODE and INSTRUCTIONS
 
+- Follow [this DIY Pressure Sensor Mat tutorial](https://www.instructables.com/Velostat-Homemade-Pressure-Sensor-Mat/)
+
 ----
 ### MORE TUTORIALS / EXAMPLES
 
