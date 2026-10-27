@@ -61,6 +61,8 @@ void loop() {
 ----
 ### ANALOG READINGS: WIRING AND CODE
 
+- Add a 10K resistor and wire as follows:
+
 <img src="Velostat_analog.png" width="600">
 
 ```
