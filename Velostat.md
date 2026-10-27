@@ -22,7 +22,7 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 
 For this first prototype, you can use crocodile clips for the connections
 
-<img src="crocodile_clips.jpg" width="600">
+<img src="crocodile_clips.jpg" width="400"> <img src="crocodile_clips_fabric.jpeg" width="400">
 
 ----
 ### BUTTON : WIRING AND CODE
