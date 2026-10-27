@@ -7,8 +7,25 @@ Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet
 ----
 ### HARDWARE
 
+- Velostat
+
+- Copper and paper sheets (included in our hackSpace kit)
+
+- Crocodile Clips
+
+- Arduino Board
+
+- LED
+
+- 220ohms resistor
+
 ----
 ### WIRING
+
+Copper Pad A connected to GND 
+
+Copper Pad B connected to Arudino pin D9 (we will be using it as an analog input)
+
 
 ----
 ### CODE and INSTRUCTIONS
