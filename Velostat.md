@@ -2,6 +2,8 @@
 
 Velostat (a.k.a. Linqstat) is a thin, flexible, pressure-sensitive plastic sheet made with carbon black. It’s a piezoresistive material — its electrical resistance changes when pressure is applied.
 
+<img src="velostat.jpg" width="600">
+
 ----
 # Use Examples
 
